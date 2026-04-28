@@ -1,20 +1,19 @@
-# 📊 Customer Insights Dashboard
+# Customer Insights Dashboard
 
 ## Overview
-Analysed customer complaint data to identify trends and improve customer experience.
+Analysed customer complaints data to identify trends and improve service performance.
 
-## Tools
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Tools Used
 - Excel
-- Power BI
+- Data Analysis
 
-## KPIs
-- Complaint volume
-- Resolution time
-- Repeat complaints
-
-## Insights
-- Delivery issues most common
-- High resolution time for payment issues
+## Key Insights
+- Payment Issues and Delivery Delays are the most frequent complaints
+- Average resolution time is ~5 days
+- Majority of complaints are closed, but some remain open/in progress
 
 ## Impact
-Helps improve customer satisfaction and reduce complaints
+Improves decision-making and helps reduce customer complaints
